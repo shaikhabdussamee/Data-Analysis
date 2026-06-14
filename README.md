@@ -1,4 +1,4 @@
-# Data-Analyses using Power Bi
+# Data-Analysis using Power Bi
 
 Goal - Develope a database to analyze and visualize Hotel Booking Data<br />
 Requirments - Building a Visual data dashboard using Power Bi to present to our Stakeholder
